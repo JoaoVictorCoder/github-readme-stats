@@ -462,6 +462,12 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  fluent_dark: {
+    title_color: "ffffff",
+    text_color: "d6d6d6",
+    icon_color: "ffffff",
+    bg_color: "292929",
+  }
 };
 
 export default themes;
